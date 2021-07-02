@@ -1,0 +1,33 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+body{
+    background-size: cover;
+}
+
+
+.play{
+ width: 100px;
+ height: 55px;
+ border-radius: 5px;
+background-color: lightblue;
+border-style: dotted;
+border-width: 4px;
+border-color: lightcoral;
+color: lightseagreen;
+margin-top: 25px;
+}
+
+canvas{
+    border-style: double;
+    border-color:steelblue;
+    border-width: 5px;
+}
